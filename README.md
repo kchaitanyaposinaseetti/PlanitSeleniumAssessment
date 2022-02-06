@@ -2,7 +2,7 @@
 PlanitSeleniumAssessment Code
 
 This is PlanitAssessementcode Tasks given by Planit.
-Please check **master** for the code for the following taks.
+Please check **master** branch for the code for the following taks.
 
 Application URL: http://jupiter.cloud.planittesting.com
 
